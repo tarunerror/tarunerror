@@ -142,5 +142,15 @@
 
 ---
 
+## 📖 Read Dev.to Article  
+
+<p align="center">
+  <a href="https://dev.to/random" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20a%20Random%20Dev.to%20Article-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Random Article" />
+  </a>
+</p>
+
+---
+
 ## 🌟 Thank You for Visiting My Profile! 🌟  
 
