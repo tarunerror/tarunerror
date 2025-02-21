@@ -52,7 +52,7 @@
   <a href="https://www.hackerearth.com/@its.tarun01" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/itstare1l9/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/itstare1l9" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
