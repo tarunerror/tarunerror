@@ -1,40 +1,61 @@
-<h1 align="center" style="color: #ffffff;">Hi 👋, I'm Tarun Gautam</h1>
-<h3 align="center" style="color: #ffffff;">A passionate developer from India</h3>
+<h1 align="center">Hey there! 👋 I'm Tarun Gautam</h1>
+<h3 align="center">🚀 Developer | 💡 Problem Solver | ⚡ Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunerror&label=Profile%20views&color=0e75b6&style=flat" alt="tarunerror" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunerror" alt="tarunerror" /></a> </p>
-
-<br/>
-
-- 👨‍💻 All of my projects are available at [tarungautam.tech](https://tarungautam.tech/)
-- 📫 How to reach me: **[its.tarun01@gmail.com](mailto:its.tarun01@gmail.com)**
-- 📄 Know about my experiences: [View Resume](https://drive.google.com/file/d/17kKu1SH8tWowq36nPMSx6wNhBWdokjhD/view?usp=sharing)
-
-<br/>
-
-<h3 align="left" style="color: #ffffff;">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/tarunerror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarunerror" height="30" width="40" /></a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://instagram.com/tan.error" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tan.error" height="30" width="40" /></a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://www.codechef.com/users/tarungautam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tarungautam" height="30" width="40" /></a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://www.hackerrank.com/its_tarun01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="its_tarun01" height="30" width="40" /></a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://codeforces.com/profile/tan.error" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tan.error" height="30" width="40" /></a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://www.leetcode.com/tan_error" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tan_error" height="30" width="40" /></a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://www.hackerearth.com/@its.tarun01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@its.tarun01" height="30" width="40" /></a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://auth.geeksforgeeks.org/user/itstare1l9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="itstare1l9" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tarunerror&label=Profile%20views&color=0e75b6&style=flat" alt="tarunerror" />
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tarunerror&theme=onedark&no-frame=true&column=6" alt="tarunerror" />
+  </a>
+</p>
 
-<h3 align="left" style="color: #ffffff;">Languages:</h3>
+---
+
+## 🚀 About Me
+
+- 🌐 Explore my projects: **[tarungautam.tech](https://tarungautam.tech/)**  
+- 📫 Reach me at: **its.tarun01@gmail.com**  
+- 📄 Check out my resume: [**View Resume**](https://drive.google.com/file/d/17kKu1SH8tWowq36nPMSx6wNhBWdokjhD/view?usp=sharing)  
+- 🌱 Currently exploring **AI & Cloud Computing**
+- 🎯 Focused on **building scalable web apps & automation tools**
+
+---
+
+
+## 🌐 Connect with Me  
+
+<p align="left">
+<a href="https://linkedin.com/in/tarunerror" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarunerror" height="30" width="40" />
+</a>
+<a href="https://instagram.com/tan.error" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tan.error" height="30" width="40" />
+</a>
+<a href="https://www.codechef.com/users/tarungautam" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tarungautam" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/its_tarun01" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="its_tarun01" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/tan.error" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tan.error" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/tan_error" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tan_error" height="30" width="40" />
+</a>
+<a href="https://www.hackerearth.com/@its.tarun01" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@its.tarun01" height="30" width="40" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/itstare1l9" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="itstare1l9" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<h3 style="color: #ffffff;">Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <span>&nbsp;&nbsp;</span>
