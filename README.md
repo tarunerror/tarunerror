@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | 💡 AI Explorer | ⚡ Tech Innovator</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tarunerror&label=🚀 Profile%20Views&color=0e75b6&style=flat" alt="tarunerror" />
+  <img src="https://komarev.com/ghpvc/?username=tarunerror&label=Profile%20Views&color=0e75b6&style=flat" alt="tarunerror" />
 </p>
 
 <p align="center">
