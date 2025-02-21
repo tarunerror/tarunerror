@@ -61,7 +61,7 @@
 
 ## 🛠️ Tech Stack  
 
-## 💻 Programming Languages  
+### 💻 Programming Languages  
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="30"/>
@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="30"/>
 </p>
 
-## 🌐 Web & Frameworks  
+### 🌐 Web & Frameworks  
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="30"/>
@@ -84,7 +84,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" height="30"/>
 </p> 
 
-## 🗄️ Databases & Cloud  
+### 🗄️ Databases & Cloud  
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="30"/>
@@ -96,7 +96,7 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" height="30"/>
 </p> 
 
-## 🛠️ DevOps & Tools  
+### 🛠️ DevOps & Tools  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="30"/>
