@@ -118,8 +118,8 @@
 
 ### 🔥 GitHub Streak:  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunerror&theme=dark" alt="tarunerror" />
-</p>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunerror&theme=dark&cache_seconds=86400" alt="tarunerror" />
+</p>
 
 ### 🏆 Overall Stats:  
 <p align="center">
