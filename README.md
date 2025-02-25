@@ -112,7 +112,9 @@
 
 ### 🔥 GitHub Streak:
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tarunerror&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tarunerror&theme=dark&hide_border=true" alt="tarunerror" />
+</p>
 
 ### 🏆 Overall Stats:  
 <p align="center">
