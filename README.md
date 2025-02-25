@@ -111,9 +111,8 @@
 </p>  
 
 ### 🔥 GitHub Streak:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tarunerror&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tarunerror&theme=radical&hide_border=true)
 
 ### 🏆 Overall Stats:  
 <p align="center">
