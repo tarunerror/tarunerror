@@ -105,7 +105,7 @@
 
 ## 🚀 My GitHub Stats  
 
-### Activity Graph:
+### 📈 Activity Graph:
 <p> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunerror&theme=tokyo-night&hide_border=true"
             alt="Activity Graph" /> </p>
 
