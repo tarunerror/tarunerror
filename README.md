@@ -105,6 +105,10 @@
 
 ## 🚀 My GitHub Stats  
 
+### Activity Graph:
+<p> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunerror&theme=tokyo-night&hide_border=true"
+            alt="Activity Graph" /> </p>
+
 ### 📊 Top Languages:  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunerror&show_icons=true&locale=en&layout=compact&theme=dark" alt="tarunerror" />
