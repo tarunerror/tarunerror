@@ -1,5 +1,5 @@
-<h1 align="center">Hey there! 👋 I'm Tarun Gautam</h1>
-<h3 align="center">🚀 Full-Stack Developer | 💡 AI Explorer | ⚡ Tech Innovator</h3>
+<h1 align="center">Hey there! I'm Tarun Gautam</h1>
+<h3 align="center"> Full-Stack Developer |  AI Explorer |  Tech Innovator</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tarunerror&label=Profile%20Views&color=0e75b6&style=flat" alt="tarunerror" />
@@ -11,24 +11,24 @@
   </a>
 </p>
 
-🔥 Passionate about building high-performance web applications, solving complex challenges, and pushing the boundaries of tech!  
-🌱 Always learning & experimenting with **AI, Cloud Computing, and Automation**!  
+ Passionate about building high-performance web applications, solving complex challenges, and pushing the boundaries of tech!  
+ Always learning & experimenting with **AI, Cloud Computing, and Automation**!  
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
-- 🌐 **Explore my projects:** [tarungautam.tech](https://tarungautam.tech/)  
-- 📫 **Reach me at:** [its.tarun01@gmail.com](mailto:its.tarun01@gmail.com)  
-- 📄 **Check out my resume:** [View Resume](https://drive.google.com/file/d/17kKu1SH8tWowq36nPMSx6wNhBWdokjhD/view?usp=sharing)  
-- 🤖 **Diving deep into:** The fusion of AI, Cloud, and Automation to craft futuristic solutions 🚀  
-- 🏗️ **On a mission to:** Engineer high-performance, scalable systems that push the boundaries of innovation ⚡  
+-  **Explore my projects:** [tarungautam.tech](https://tarungautam.tech/)  
+-  **Reach me at:** [its.tarun01@gmail.com](mailto:its.tarun01@gmail.com)  
+-  **Check out my resume:** [View Resume](https://drive.google.com/file/d/17kKu1SH8tWowq36nPMSx6wNhBWdokjhD/view?usp=sharing)  
+-  **Diving deep into:** The fusion of AI, Cloud, and Automation to craft futuristic solutions   
+-  **On a mission to:** Engineer high-performance, scalable systems that push the boundaries of innovation 
 
 
 ---
 
 
-## 🌐 Connect with Me  
+##  Connect with Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/tarunerror" target="_blank">
@@ -53,9 +53,9 @@
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
-### 💻 Programming Languages  
+###  Programming Languages  
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" height="30"/>
@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="30"/>
 </p>
 
-### 🌐 Web & Frameworks  
+###  Web & Frameworks  
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="30"/>
@@ -78,7 +78,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" height="30"/>
 </p> 
 
-### 🗄️ Databases & Cloud  
+###  Databases & Cloud  
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="30"/>
@@ -90,7 +90,7 @@
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud" height="30"/>
 </p> 
 
-### 🛠️ DevOps & Tools  
+###  DevOps & Tools  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="30"/>
@@ -103,43 +103,43 @@
 
 ---
 
-## 🚀 My GitHub Stats  
+##  My GitHub Stats  
 
-### 📈 Activity Graph:
+###  Activity Graph:
 <p> <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunerror&theme=tokyo-night&hide_border=true"
             alt="Activity Graph" /> </p>
 
-### 📊 Top Languages:  
+###  Top Languages:  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunerror&show_icons=true&locale=en&layout=compact&theme=dark" alt="tarunerror" />
 </p>  
 
-### 🔥 GitHub Streak:
+###  GitHub Streak:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunerror&theme=dark" alt="tarunerror" />
 </p>
 
-### 🏆 Overall Stats:  
+###  Overall Stats:  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tarunerror&show_icons=true&locale=en&theme=dark" alt="tarunerror" />
 </p>  
 
-💡 *"Code, Commit, Conquer!"* 🚀
+ *"Code, Commit, Conquer!"* 
 
 ---
 
-## 🤝 Feel Free to Contribute!  
+##  Feel Free to Contribute!  
 
 <p align="center">
-  🚀💡 I welcome contributions to my projects! If you have any ideas, suggestions, or improvements, don't hesitate to reach out or submit a pull request! ✨  
+   I welcome contributions to my projects! If you have any ideas, suggestions, or improvements, don't hesitate to reach out or submit a pull request! 
 </p>
 
 ---
 
-<p align="center" style="color: #ffffff;">Let's build something amazing together! 🚀</p>
+<p align="center" style="color: #ffffff;">Let's build something amazing together! </p>
 
 ---
 
-## 🌟 Thank You for Visiting My Profile! 🌟  
+##  Thank You for Visiting My Profile! 
 
